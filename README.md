@@ -89,6 +89,3 @@ The program displays real-time statistics about captured packets:
 ![WhatsApp Image 2025-05-20 at 22 08 40_684fc639](https://github.com/user-attachments/assets/2d17ae60-3e50-42fa-ad63-0997a8020718)
 
 
-## License
-
-This project is open-source software.
