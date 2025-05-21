@@ -74,12 +74,14 @@ This will run the provided test cases to verify the packet parser functionality.
 ## Output
 
 The program displays real-time statistics about captured packets:
-- Total number of packets captured
-- Count and percentage of TCP packets
-- Count and percentage of UDP packets
-- Count and percentage of ICMP packets
-- Count and percentage of other packet types
-- Memory usage statistics
+![WhatsApp Image 2025-05-20 at 22 05 37_aaf906b1](https://github.com/user-attachments/assets/0b1fa4e7-6af8-4b3a-8b21-7bab10478072)
+![WhatsApp Image 2025-05-20 at 22 06 04_1af6aab8](https://github.com/user-attachments/assets/42a4bc4c-a881-4ec8-91f7-1e0ec3bd221e)
+![WhatsApp Image 2025-05-20 at 22 06 49_5c9240d0](https://github.com/user-attachments/assets/be6c4046-eb9e-4b3f-bbd8-2cb7bcf471ff)
+![WhatsApp Image 2025-05-20 at 22 07 18_4ba78a66](https://github.com/user-attachments/assets/7dea7025-71bd-4a67-9e76-6af671948af7)
+![WhatsApp Image 2025-05-20 at 22 07 56_a97c5e29](https://github.com/user-attachments/assets/384a77c7-8d69-4ce2-8f7c-aa37ec9fe474)
+![WhatsApp Image 2025-05-20 at 22 08 19_8a370c24](https://github.com/user-attachments/assets/ed23dd9f-e4f0-40e9-b595-1b0a3751b9c0)
+![WhatsApp Image 2025-05-20 at 22 08 40_684fc639](https://github.com/user-attachments/assets/2d17ae60-3e50-42fa-ad63-0997a8020718)
+
 
 ## License
 
